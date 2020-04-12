@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">tugasrecyclerview</string>
+    
+    <string-array name="Sosial_Media">
+        <item>Facebook</item>
+        <item>Instagram</item>
+        <item>Twitter</item>
+        <item>Youtube</item>
+        <item>Whatsapp</item>
+        <item>Yogi Mulyana</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item>this is description</item>
+        <item>this is description</item>
+        <item>this is description</item>
+        <item>this is description</item>
+        <item>this is description</item>
+        <item>NIM : 1805551066</item>
+
+    </string-array>
+</resources>
